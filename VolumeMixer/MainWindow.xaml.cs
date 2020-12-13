@@ -59,10 +59,12 @@ namespace VolumeMixer
         private void refreshButton_Click(object sender, RoutedEventArgs e)
         {
             audioSessions.Clear();
+            audioSessions.Add(new MasterAudioSession());
             foreach (AudioSession a in AudioUtilities.GetAllSessions())
             {
                 audioSessions.Add(a);
             }
+            audioSessions.Add(new GameAudioSession());
         }
     }
 }
