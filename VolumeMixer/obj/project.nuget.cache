@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gVFyZfELx6UUbtTwwxRja1rNGpEmTgbG3ADLRvPDSGW32MBNMLB4FzyQIkvdKN2YeEl7WpjdxbMhxpqKQiRFw==",
+  "success": true,
+  "projectFilePath": "H:\\Repos\\VolumeMixer\\VolumeMixer\\VolumeMixer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lesle\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.0\\runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\system.io.ports\\5.0.0\\system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lesle\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
