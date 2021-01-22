@@ -22,7 +22,7 @@ namespace VolumeMixer
                 byte check = (byte)(packet[4] ^ packet[6]);
                 if (check != packet[5])
                 {
-                    Debug.WriteLine("CHECK FAILED");
+                    Debug.WriteLine("CHECK FAILED"); //TODO: throw error, resync in PacketManager
                     isPing = true;
                 }
             }

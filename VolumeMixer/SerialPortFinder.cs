@@ -23,14 +23,14 @@ namespace VolumeMixer
                 testPort.Handshake = Handshake.None;
                 testPort.NewLine = "\n";
                 testPort.RtsEnable = false;
-                testPort.ReadTimeout = 500;
+                testPort.ReadTimeout = 1000;
                 testPort.WriteTimeout = 500;
                 testPort.ReadBufferSize = 1048576;
 
                 try
                 {
                     testPort.Open();
-                    System.Threading.Thread.Sleep(100);
+                    System.Threading.Thread.Sleep(200);
                     int bufferSize = 8;
                     byte[] buffer = new byte[bufferSize];
                     testPort.Read(buffer, 0, bufferSize); //Get initial buffer
